@@ -21,7 +21,7 @@ const About = () => {
             </p>
 
             <button className="mt-8 px-10 py-3 flex items-center gap-2   cursor-pointer hover:bg-purple-500 text-gray-300 border-b border-purple-800 hover:text-white   rounded-full transition">
-            <a href="mailto:kumar463pawan@gmail.com?subject=Job%20Opportunity&body=Hello%20XYZ,%0D%0A%0D%0AI%20am%20interested%20in%20hiring%20you." target='_blank'>Hire Me</a>
+            <a href="mailto:kumar463pawan@gmail.com?subject=Job%20Opportunity&body=Hello%20Pawan,%0D%0A%0D%0AI%20am%20interested%20in%20hiring%20you." target='_blank'>Hire Me</a>
 
             </button>
           </div>
