@@ -4,7 +4,7 @@ import Contact from './Contact';
 import Footer from './Footer';
 import Skill from './Skill';
 import Works from './Works';
-import { FaArrowRight } from 'react-icons/fa';
+
 import { Typewriter } from 'react-simple-typewriter';
 const About = () => {
   return (
