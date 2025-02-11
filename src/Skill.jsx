@@ -30,6 +30,15 @@ const Skill = () => {
 
             <div className="pt-8 pb-14 bg-black text-white px-8 text-center">
                 <div className="xl:w-9/12 mx-auto grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-5 gap-y-16 place-items-center">
+                    {/*C++ icon with smaller image*/}    
+                    <div className="relative p-4">
+                        <img
+                            src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png"
+                            alt="C++ Icon"
+                            className="h-16 w-16 object-contain transform transition duration-2000 ease-in-out hover:scale-120 hover:shadow-lg hover:shadow-white"
+                        />
+                        <BorderBeam size={300} duration={10} colorFrom={'#48b7f7'} colorTo={'#FFFFFF'} />
+                    </div>
 
                     {/* JS Icon with smaller image */}
                     <div className="relative p-4">
