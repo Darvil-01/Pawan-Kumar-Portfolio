@@ -17,7 +17,7 @@ const About = () => {
             <p className="text-lg mt-8">Hello there 👋</p>
             <h1 className="text-4xl  text-purple-500 lg:mt-4 ">I'm Pawan</h1>
             <p className="text-gray-300 text-left  mt-3 xl:w-11/12">
-              A <span className="text-purple-500 font-semibold">FrontEnd Developer & Android Developer.</span> I'm deeply passionate about creating innovative, responsive, and user-friendly web applications that captivate and engage users. I specialize in building sleek, interactive front-end designs with React. My work focuses on crafting visually appealing, intuitive, and responsive experiences across devices. With a keen eye for detail, I aim to ensure that every application is not only functional but also eye-catching and impactful. Let’s collaborate to turn your ideas into seamless digital solutions!
+              A <span className="text-purple-500 font-semibold">FrontEnd Developer, Android Developer & Aspiring Educator.</span> I'm deeply passionate about creating innovative, responsive, and user-friendly web applications that captivate and engage users. I specialize in building sleek, interactive front-end designs with React. My work focuses on crafting visually appealing, intuitive, and responsive experiences across devices. With a keen eye for detail, I aim to ensure that every application is not only functional but also eye-catching and impactful. Let’s collaborate to turn your ideas into seamless digital solutions!
             </p>
 
             <button className="mt-8 px-10 py-3 flex items-center gap-2   cursor-pointer hover:bg-purple-500 text-gray-300 border-b border-purple-800 hover:text-white   rounded-full transition">
