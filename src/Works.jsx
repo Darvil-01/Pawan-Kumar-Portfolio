@@ -2,6 +2,7 @@ import wethApp from './assets/weatherApp.png';
 import accident from './assets/Accident-Detection-System.png';   
 import netflix from './assets/netflix-thumbnail.png';
 import img_gen from './assets/openAi img generator.png';
+import todo from './assets/todo.jpg'
 import Swal from 'sweetalert2';
 
 const Works = () => {
@@ -38,6 +39,17 @@ const Works = () => {
             date: "April 2024",
             tech: "Python, DeepLearning, Conv3D(CNN), LSTM, TensorFlow, Google Colab",
             video:""
+        },
+
+       
+
+        {
+            title: "Docket (An Android App)",
+            image: todo,
+            link: "",
+            date: "April 2024",
+            tech: "Java, Android Studio, Android, SQLite, RecyclerView, Date & TimePicker Dialog, Alarm Manager",
+            video:" https://drive.google.com/file/d/1gye6Ga-GPKhNbP9dOtLTKNUzC_pgSZ7D/view?usp=sharing"
         },
     ];
 

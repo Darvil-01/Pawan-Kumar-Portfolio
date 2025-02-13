@@ -1,4 +1,5 @@
 import { BorderBeam } from '@stianlarsen/border-beam';
+import androidLogo from './assets/android logo.png'
 import React from 'react';
 import { Typewriter } from 'react-simple-typewriter';
 
@@ -149,6 +150,17 @@ const Skill = () => {
                         />
                         <BorderBeam size={300} duration={10} colorFrom={'#5F9EA0'} colorTo={'#5F9EA0'} />
                     </div>
+
+                    {/* Android */}
+                    <div className="relative p-4">
+                        <img
+                            src={androidLogo}
+                            alt="GitHub Icon"
+                            className="h-16 w-16 object-contain transform transition duration-2000 ease-in-out hover:scale-120 hover:shadow-lg hover:shadow-white"
+                        />
+                        <BorderBeam size={300} duration={10} colorFrom={'#16fa1e'} colorTo={'#FFF'} />
+                    </div>
+                    
 
                 </div>
             </div>
